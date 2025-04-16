@@ -13,7 +13,7 @@ Praticar:
 ## 🔧 Funcionalidades
 
 - ✅ Inserir valor em reais (R$)
-- 🔁 Converter para dólar (US$), euro (€), e outras moedas
+- 🔁 Converter para dólar (US$), euro (€), Libra
 - 🌐 Interface simples e amigável
 
 

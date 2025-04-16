@@ -1,31 +1,34 @@
-Funções
-→ Definição e declaração de funções
-→ Parâmetros e retorno de valores
-→ Funções anônimas e arrow functions
+# 💱 Conversor de Moedas
 
+Projeto simples e direto ao ponto: um **conversor de moedas** feito com **HTML**, **CSS** e **JavaScript**. Ele permite converter valores entre diferentes moedas, simulando taxas de câmbio.
 
+## 🧠 Objetivo
 
+Praticar:
+- Manipulação de inputs e eventos no JS
+- Cálculo e formatação de valores
+- Atualização dinâmica do DOM
+- Lógica básica de programação
 
+## 🔧 Funcionalidades
 
+- ✅ Inserir valor em reais (R$)
+- 🔁 Converter para dólar (US$), euro (€), e outras moedas
+- 🌐 Interface simples e amigável
 
+## 🖼️ Preview
 
+![preview do projeto](https://imgur.com/a/mBzfN4b)  
+> *Substituir por um print real ou gif mostrando a conversão em tempo real.*
 
+## 🛠 Tecnologias utilizadas
 
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
 
+## 🚀 Como usar
 
-
-Manipulação da DOM
-→ Seleção de elementos (getElementById, querySelector)
-→ Criação, remoção e modificação de elementos no DOM
-
-
-
-
-
-
-
-
-
-
-Eventos
-→ Adição de ouvintes de eventos (addEventListener)
+1. Clone o repositório:
+```bash
+git clone https://github.com/AxlvesVDev/conversor.git

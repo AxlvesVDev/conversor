@@ -19,7 +19,7 @@ Praticar:
 ## 🖼️ Preview
 
 ![preview do projeto](https://imgur.com/a/mBzfN4b)  
-> *Substituir por um print real ou gif mostrando a conversão em tempo real.*
+
 
 ## 🛠 Tecnologias utilizadas
 

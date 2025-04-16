@@ -18,7 +18,7 @@ Praticar:
 
 ## 🖼️ Preview
 
-![preview do projeto](https://imgur.com/a/mBzfN4b)  
+![preview do projeto](https://imgur.com/a/mBzfN4b) 
 
 
 ## 🛠 Tecnologias utilizadas

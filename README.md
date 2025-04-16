@@ -16,10 +16,6 @@ Praticar:
 - 🔁 Converter para dólar (US$), euro (€), e outras moedas
 - 🌐 Interface simples e amigável
 
-## 🖼️ Preview
-
-![preview do projeto](https://imgur.com/a/mBzfN4b) 
-
 
 ## 🛠 Tecnologias utilizadas
 
